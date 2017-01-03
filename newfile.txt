@@ -1,0 +1,3 @@
+Newfile added from command line on MAC
+line 2
+line 3
